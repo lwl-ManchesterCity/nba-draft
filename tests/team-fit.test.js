@@ -1,0 +1,3 @@
+import {it,expect} from 'vitest';import {teamFit,playerFacts} from '../server/team-fit.mjs';
+const player=(id,ast,load)=>({id,name:`Player ${id}`,pts:20,ast,astRatio:ast/20,reb:6,per36:{load,tpa:5,reb:7},tpShrunk:.36});
+it('assigns each selected player exactly once and preserves unknown tracking data',()=>{const team=[player(1,9,30),player(2,6,25),player(3,3,20),player(4,2,18),player(5,1,15)],result=teamFit(team,team);expect(result.roles.map(r=>r.playerId)).toEqual([1,2,3,4,5]);expect(result.roles[0].role).toBe('建议主要发起');expect(result.roles[0].evidence[0]).toContain('9.0 助攻');expect(playerFacts(team[0]).spotPpp).toBeUndefined();expect(result.chemistry).toContain('空间');});

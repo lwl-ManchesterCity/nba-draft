@@ -1,0 +1,9 @@
+const valid=n=>typeof n==='number'&&Number.isFinite(n);
+const score=p=>(p.astRatio??0)*20+(p.per36?.load??0)*.08;
+export function lineupFit(players){
+ const team=players.filter(Boolean),creators=[...team].sort((a,b)=>score(b)-score(a)),high=team.filter(p=>valid(p.per36?.load)&&p.per36.load>=30),shooters=team.filter(p=>valid(p.per36?.tpa)&&valid(p.tpPct)&&p.per36.tpa>=4&&p.tpPct>=.34),rebounders=team.filter(p=>valid(p.per36?.reb)&&p.per36.reb>=9),rim=team.filter(p=>valid(p.per36?.blk)&&p.per36.blk>=1.2),inside=team.filter(p=>valid(p.per36?.tpa)&&p.per36.tpa<2&&p.position==='C');
+ const offball=team.filter(p=>valid(p.offballPpp)||valid(p.spotPpp)||valid(p.cutTransitionPpp)),missingOffball=team.filter(p=>!valid(p.offballPpp)&&!valid(p.spotPpp)&&!valid(p.cutTransitionPpp));
+ const needs=[];if(!team.length)needs.push('先寻找进攻发起点');else{if(!team.some(p=>(p.ast??0)>=4))needs.push('缺少稳定组织点');if(shooters.length<2)needs.push('关注外线投射');if(!rebounders.length)needs.push('关注篮板保护');if(!rim.length)needs.push('关注篮下防守');if(high.length>=2)needs.push('多名高负荷球员，需考虑球权分工');if(inside.length>=2)needs.push('多名低三分出手中锋，注意篮下空间')}
+ return {needs,creators:creators.slice(0,2).map(p=>p.name),high:high.map(p=>p.name),shooters:shooters.map(p=>p.name),rebounders:rebounders.map(p=>p.name),rim:rim.map(p=>p.name),inside:inside.map(p=>p.name),offball:offball.map(p=>p.name),missingOffball:missingOffball.map(p=>p.name)};
+}
+export function candidateFit(team,p){const before=lineupFit(team),after=lineupFit([...team,p]),added=[];if((p.ast??0)>=4&&!team.some(x=>(x.ast??0)>=4))added.push('提供组织选择');if(after.shooters.length>before.shooters.length)added.push('增加外线投射选择');if(after.rebounders.length>before.rebounders.length)added.push('增加篮板资源');if(after.rim.length>before.rim.length)added.push('增加盖帽资源');const risks=after.needs.filter(n=>!before.needs.includes(n)&&(n.includes('球权分工')||n.includes('篮下空间')));return {added,risks};}

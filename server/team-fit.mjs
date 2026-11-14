@@ -1,0 +1,10 @@
+const finite=x=>typeof x==='number'&&Number.isFinite(x);
+const fmt=(v,n=1)=>finite(v)?v.toFixed(n):'暂无';
+const top=(team,score)=>[...team].sort((a,b)=>score(b)-score(a));
+export function teamFit(team,opponent){
+ const creators=top(team,p=>(p.astRatio??0)*20+(p.per36?.load??0)*.08), shooters=top(team,p=>(p.per36?.tpa??0)*(p.tpShrunk??0)), rebounders=top(team,p=>p.per36?.reb??0);
+ const first=creators[0],second=creators[1],shooter=shooters[0],rebounder=rebounders[0];
+ const roles=team.map(p=>({playerId:p.id,role:p.id===first.id?'建议主要发起':p.id===second.id?'建议第二发起':p.id===shooter.id?'建议空间支点':p.id===rebounder.id?'建议篮板支点':'建议衔接与终结',evidence:[`场均 ${fmt(p.pts)} 分 / ${fmt(p.ast)} 助攻`,`每36分钟三分出手 ${fmt(p.per36?.tpa)} 次`,`每36分钟篮板 ${fmt(p.per36?.reb)} 个`]}));
+ return {roles,ball:`可优先考虑由${first.name}发起，${second.name}承担第二组织任务；两人持球需求能否兼容，仍需结合无球表现判断。`,pairings:`可观察${first.name}与队友的挡拆或传切配合；队友的定点、顺下数据缺失时，不宜断言组合效果。`,chemistry:`${shooter.name}的三分出手量可作为空间参考；若其他队友需要在篮下活动，应留意空间是否被压缩。`,defense:`${rebounder.name}的篮板产量可供参考；整体协防与换防效果不能仅凭抢断或盖帽确认。`,opponent:`面对${opponent[0].name}等对手，具体防守对位和战术调整仍需进一步观察。`};
+}
+export function playerFacts(p){return {id:p.id,name:p.name,position:p.position,gp:p.gp,seasons:p.seasons,weights:p.weights,pts:p.pts,reb:p.reb,ast:p.ast,stl:p.stl,blk:p.blk,tov:p.tov,ts:p.ts,astRatio:p.astRatio,astTo:p.astTo,per:p.per,per36:p.per36,tpPct:p.tpPct,tpShrunk:p.tpShrunk,ballhandlerPpp:p.ballhandlerPpp,ballhandlerSamples:p.ballhandlerSamples,isoPnrPpp:p.isoPnrPpp,isoPnrSamples:p.isoPnrSamples,spotPpp:p.spotPpp,spotSamples:p.spotSamples,offballPpp:p.offballPpp,offballSamples:p.offballSamples,cutTransitionPpp:p.cutTransitionPpp,cutTransitionSamples:p.cutTransitionSamples,rollPpp:p.rollPpp,rollSamples:p.rollSamples,postPpp:p.postPpp,postSamples:p.postSamples,hustle_screen_assists:p.hustle_screen_assists,hustle_screen_ast_pts:p.hustle_screen_ast_pts,hustle_deflections:p.hustle_deflections,hustle_contested_shots:p.hustle_contested_shots,hustleSamples:p.hustleSamples,rimDifferential:p.rimDifferential,rimSamples:p.rimSamples};}

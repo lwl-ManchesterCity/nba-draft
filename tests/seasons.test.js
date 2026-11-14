@@ -1,0 +1,3 @@
+import {it,expect} from 'vitest';import data from '../src/data/nba-players.json';
+it('preserves both seasons and does not penalize a missing season',()=>{const p=data.players.find(x=>x.name==='Tyrese Haliburton');expect(p.seasons.map(s=>s.season)).toEqual(['2024-25']);expect(p.weights[0].weight).toBe(1);expect(p.pts).toBeCloseTo(p.seasons[0].pts)});
+it('weights both seasons and calculates true shooting from weighted attempts',()=>{const p=data.players.find(x=>x.name==='Victor Wembanyama'),[a,b]=p.seasons;expect(p.weights.map(x=>x.weight)).toEqual([.35,.65]);expect(p.pts).toBeCloseTo(.35*a.pts+.65*b.pts);const fga=.35*a.fga/a.gp+.65*b.fga/b.gp,fta=.35*a.fta/a.gp+.65*b.fta/b.gp;expect(p.ts).toBeCloseTo(p.pts/(2*(fga+.44*fta)))});

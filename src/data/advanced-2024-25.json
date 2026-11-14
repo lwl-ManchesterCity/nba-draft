@@ -1,0 +1,1854 @@
+{
+  "season": "2024-25",
+  "sources": {
+    "bpm": "https://api.github.com/repos/gh1sung/nba-chemistry/contents/data/bpm_2024_25.csv",
+    "defense": "https://api.github.com/repos/maxhostetter-eng/nba-defensive-shot-tracking-analysis/git/blobs/271cab4cc5b91b4bffddcd433216b59d3db760a3"
+  },
+  "matched": {
+    "bpm": 304,
+    "defense": 307
+  },
+  "players": {
+    "4067017": {
+      "bpm": -2.5,
+      "defendedFgPct": 0.457,
+      "defendedAttemptsPerGame": 6.83,
+      "defenseGames": 26
+    },
+    "3064290": {
+      "bpm": 1.2,
+      "defendedFgPct": 0.478,
+      "defendedAttemptsPerGame": 11.35,
+      "defenseGames": 51
+    },
+    "4396909": {
+      "bpm": -0.5,
+      "defendedFgPct": 0.434,
+      "defendedAttemptsPerGame": 9.78,
+      "defenseGames": 45
+    },
+    "4397183": {
+      "bpm": 1.1,
+      "defendedFgPct": 0.47,
+      "defendedAttemptsPerGame": 10.45,
+      "defenseGames": 76
+    },
+    "5105637": {
+      "bpm": -2.7,
+      "defendedFgPct": 0.459,
+      "defendedAttemptsPerGame": 9.61,
+      "defenseGames": 58
+    },
+    "4397475": {
+      "bpm": -2.2,
+      "defendedFgPct": 0.459,
+      "defendedAttemptsPerGame": 10.4,
+      "defenseGames": 73
+    },
+    "5170947": {
+      "bpm": -8.1,
+      "defendedFgPct": 0.45,
+      "defendedAttemptsPerGame": 10.0,
+      "defenseGames": 29
+    },
+    "4900671": {
+      "bpm": -1.6,
+      "defendedFgPct": 0.431,
+      "defendedAttemptsPerGame": 5.61,
+      "defenseGames": 36
+    },
+    "3213": {
+      "bpm": 1.2,
+      "defendedFgPct": 0.452,
+      "defendedAttemptsPerGame": 13.17,
+      "defenseGames": 60
+    },
+    "2991350": {
+      "bpm": 4.0,
+      "defendedFgPct": 0.395,
+      "defendedAttemptsPerGame": 8.96,
+      "defenseGames": 54
+    },
+    "5160992": {
+      "bpm": -3.3,
+      "defendedFgPct": 0.507,
+      "defendedAttemptsPerGame": 17.69,
+      "defenseGames": 67
+    },
+    "4871144": {
+      "bpm": 4.4,
+      "defendedFgPct": 0.471,
+      "defendedAttemptsPerGame": 17.82,
+      "defenseGames": 76
+    },
+    "4684740": {
+      "bpm": 4.1,
+      "defendedFgPct": 0.407,
+      "defendedAttemptsPerGame": 10.57,
+      "defenseGames": 69
+    },
+    "4066387": {
+      "bpm": -1.7,
+      "defendedFgPct": 0.482,
+      "defendedAttemptsPerGame": 7.69,
+      "defenseGames": 72
+    },
+    "6585": {
+      "bpm": -3.2,
+      "defendedFgPct": 0.526,
+      "defendedAttemptsPerGame": 9.95,
+      "defenseGames": 40
+    },
+    "4395712": {
+      "bpm": -2.3,
+      "defendedFgPct": 0.47,
+      "defendedAttemptsPerGame": 11.92,
+      "defenseGames": 65
+    },
+    "3059319": {
+      "bpm": 0.9,
+      "defendedFgPct": 0.449,
+      "defendedAttemptsPerGame": 12.97,
+      "defenseGames": 60
+    },
+    "4351851": {
+      "bpm": -0.1,
+      "defendedFgPct": 0.505,
+      "defendedAttemptsPerGame": 11.63,
+      "defenseGames": 70
+    },
+    "4712849": {
+      "bpm": -1.9,
+      "defendedFgPct": 0.452,
+      "defendedAttemptsPerGame": 9.15,
+      "defenseGames": 78
+    },
+    "6583": {
+      "bpm": 5.4,
+      "defendedFgPct": 0.439,
+      "defendedAttemptsPerGame": 16.61,
+      "defenseGames": 51
+    },
+    "4594268": {
+      "bpm": 4.3,
+      "defendedFgPct": 0.46,
+      "defendedAttemptsPerGame": 11.47,
+      "defenseGames": 79
+    },
+    "4592686": {
+      "bpm": -3.2,
+      "defendedFgPct": 0.519,
+      "defendedAttemptsPerGame": 5.0,
+      "defenseGames": 44
+    },
+    "4684742": {
+      "bpm": 1.7,
+      "defendedFgPct": 0.416,
+      "defendedAttemptsPerGame": 9.2,
+      "defenseGames": 59
+    },
+    "4066457": {
+      "bpm": 1.9,
+      "defendedFgPct": 0.492,
+      "defendedAttemptsPerGame": 15.56,
+      "defenseGames": 73
+    },
+    "4397002": {
+      "bpm": -1.6,
+      "defendedFgPct": 0.497,
+      "defendedAttemptsPerGame": 10.5,
+      "defenseGames": 46
+    },
+    "4066261": {
+      "bpm": 2.0,
+      "defendedFgPct": 0.474,
+      "defendedAttemptsPerGame": 13.13,
+      "defenseGames": 78
+    },
+    "4433076": {
+      "bpm": -2.0,
+      "defendedFgPct": 0.456,
+      "defendedAttemptsPerGame": 7.32,
+      "defenseGames": 63
+    },
+    "3907387": {
+      "bpm": -0.5,
+      "defendedFgPct": 0.463,
+      "defendedAttemptsPerGame": 8.14,
+      "defenseGames": 51
+    },
+    "4683634": {
+      "bpm": -2.9,
+      "defendedFgPct": 0.5,
+      "defendedAttemptsPerGame": 11.19,
+      "defenseGames": 72
+    },
+    "5104155": {
+      "bpm": -3.7,
+      "defendedFgPct": 0.444,
+      "defendedAttemptsPerGame": 11.22,
+      "defenseGames": 59
+    },
+    "6427": {
+      "bpm": -3.6,
+      "defendedFgPct": 0.483,
+      "defendedAttemptsPerGame": 8.89,
+      "defenseGames": 28
+    },
+    "3064482": {
+      "bpm": 0.2,
+      "defendedFgPct": 0.449,
+      "defendedAttemptsPerGame": 12.73,
+      "defenseGames": 49
+    },
+    "3037789": {
+      "bpm": -2.0,
+      "defendedFgPct": 0.474,
+      "defendedAttemptsPerGame": 10.17,
+      "defenseGames": 54
+    },
+    "6580": {
+      "bpm": -1.1,
+      "defendedFgPct": 0.47,
+      "defendedAttemptsPerGame": 13.42,
+      "defenseGames": 53
+    },
+    "4709138": {
+      "bpm": 0.7,
+      "defendedFgPct": 0.495,
+      "defendedAttemptsPerGame": 9.78,
+      "defenseGames": 64
+    },
+    "4432162": {
+      "bpm": -2.5
+    },
+    "4433287": {
+      "bpm": 0.0,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 12.52,
+      "defenseGames": 27
+    },
+    "5105839": {
+      "bpm": -1.2,
+      "defendedFgPct": 0.494,
+      "defendedAttemptsPerGame": 7.09,
+      "defenseGames": 71
+    },
+    "3448": {
+      "bpm": 0.8,
+      "defendedFgPct": 0.468,
+      "defendedAttemptsPerGame": 19.05,
+      "defenseGames": 80
+    },
+    "4065670": {
+      "bpm": -3.8,
+      "defendedFgPct": 0.503,
+      "defendedAttemptsPerGame": 8.15,
+      "defenseGames": 41
+    },
+    "4845374": {
+      "bpm": -4.6,
+      "defendedFgPct": 0.484,
+      "defendedAttemptsPerGame": 10.17,
+      "defenseGames": 82
+    },
+    "2990984": {
+      "bpm": -1.0,
+      "defendedFgPct": 0.483,
+      "defendedAttemptsPerGame": 9.6,
+      "defenseGames": 82
+    },
+    "4432166": {
+      "bpm": 3.9,
+      "defendedFgPct": 0.441,
+      "defendedAttemptsPerGame": 14.84,
+      "defenseGames": 70
+    },
+    "3138160": {
+      "bpm": -3.2,
+      "defendedFgPct": 0.484,
+      "defendedAttemptsPerGame": 11.84,
+      "defenseGames": 45
+    },
+    "5105592": {
+      "bpm": 0.3,
+      "defendedFgPct": 0.439,
+      "defendedAttemptsPerGame": 4.75,
+      "defenseGames": 51
+    },
+    "3138196": {
+      "bpm": 3.1,
+      "defendedFgPct": 0.465,
+      "defendedAttemptsPerGame": 11.18,
+      "defenseGames": 57
+    },
+    "2991043": {
+      "bpm": 0.9,
+      "defendedFgPct": 0.437,
+      "defendedAttemptsPerGame": 10.16,
+      "defenseGames": 64
+    },
+    "4683692": {
+      "bpm": 1.0,
+      "defendedFgPct": 0.468,
+      "defendedAttemptsPerGame": 11.87,
+      "defenseGames": 68
+    },
+    "4433255": {
+      "bpm": 2.4,
+      "defendedFgPct": 0.418,
+      "defendedAttemptsPerGame": 14.81,
+      "defenseGames": 32
+    },
+    "4431767": {
+      "bpm": 0.3,
+      "defendedFgPct": 0.481,
+      "defendedAttemptsPerGame": 12.53,
+      "defenseGames": 79
+    },
+    "2490149": {
+      "bpm": -1.4,
+      "defendedFgPct": 0.457,
+      "defendedAttemptsPerGame": 12.8,
+      "defenseGames": 56
+    },
+    "3102529": {
+      "bpm": -1.0,
+      "defendedFgPct": 0.474,
+      "defendedAttemptsPerGame": 9.62,
+      "defenseGames": 55
+    },
+    "4395651": {
+      "bpm": -0.9,
+      "defendedFgPct": 0.495,
+      "defendedAttemptsPerGame": 11.73,
+      "defenseGames": 74
+    },
+    "4895758": {
+      "bpm": -7.3,
+      "defendedFgPct": 0.483,
+      "defendedAttemptsPerGame": 8.86,
+      "defenseGames": 50
+    },
+    "4397204": {
+      "bpm": -5.0,
+      "defendedFgPct": 0.444,
+      "defendedAttemptsPerGame": 9.39,
+      "defenseGames": 26
+    },
+    "4277811": {
+      "bpm": -0.6,
+      "defendedFgPct": 0.473,
+      "defendedAttemptsPerGame": 7.62,
+      "defenseGames": 63
+    },
+    "4280151": {
+      "bpm": -3.7,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 8.66,
+      "defenseGames": 61
+    },
+    "3136776": {
+      "bpm": -0.4,
+      "defendedFgPct": 0.485,
+      "defendedAttemptsPerGame": 11.05,
+      "defenseGames": 58
+    },
+    "4397885": {
+      "bpm": -0.8,
+      "defendedFgPct": 0.444,
+      "defendedAttemptsPerGame": 6.31,
+      "defenseGames": 67
+    },
+    "4897943": {
+      "bpm": -1.8,
+      "defendedFgPct": 0.491,
+      "defendedAttemptsPerGame": 7.44,
+      "defenseGames": 78
+    },
+    "6606": {
+      "bpm": 4.0,
+      "defendedFgPct": 0.461,
+      "defendedAttemptsPerGame": 12.19,
+      "defenseGames": 58
+    },
+    "4278049": {
+      "bpm": 3.8,
+      "defendedFgPct": 0.456,
+      "defendedAttemptsPerGame": 14.63,
+      "defenseGames": 57
+    },
+    "4396907": {
+      "bpm": 3.1,
+      "defendedFgPct": 0.466,
+      "defendedAttemptsPerGame": 10.79,
+      "defenseGames": 75
+    },
+    "4278053": {
+      "bpm": -2.6,
+      "defendedFgPct": 0.458,
+      "defendedAttemptsPerGame": 10.26,
+      "defenseGames": 74
+    },
+    "4432194": {
+      "bpm": 0.9,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 8.26,
+      "defenseGames": 50
+    },
+    "4066259": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.476,
+      "defendedAttemptsPerGame": 14.89,
+      "defenseGames": 62
+    },
+    "4065732": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.451,
+      "defendedAttemptsPerGame": 9.94,
+      "defenseGames": 64
+    },
+    "3912848": {
+      "bpm": 0.3,
+      "defendedFgPct": 0.465,
+      "defendedAttemptsPerGame": 8.46,
+      "defenseGames": 59
+    },
+    "4278129": {
+      "bpm": -0.7,
+      "defendedFgPct": 0.479,
+      "defendedAttemptsPerGame": 14.78,
+      "defenseGames": 40
+    },
+    "3907497": {
+      "bpm": -1.6,
+      "defendedFgPct": 0.514,
+      "defendedAttemptsPerGame": 13.06,
+      "defenseGames": 31
+    },
+    "3978": {
+      "bpm": -0.1,
+      "defendedFgPct": 0.5,
+      "defendedAttemptsPerGame": 10.99,
+      "defenseGames": 77
+    },
+    "4683021": {
+      "bpm": 2.1,
+      "defendedFgPct": 0.485,
+      "defendedAttemptsPerGame": 12.68,
+      "defenseGames": 72
+    },
+    "3032979": {
+      "bpm": -2.2,
+      "defendedFgPct": 0.482,
+      "defendedAttemptsPerGame": 10.32,
+      "defenseGames": 75
+    },
+    "4683688": {
+      "bpm": 3.3,
+      "defendedFgPct": 0.459,
+      "defendedAttemptsPerGame": 14.94,
+      "defenseGames": 36
+    },
+    "3936099": {
+      "bpm": -0.3,
+      "defendedFgPct": 0.464,
+      "defendedAttemptsPerGame": 8.56,
+      "defenseGames": 77
+    },
+    "3078576": {
+      "bpm": 3.5,
+      "defendedFgPct": 0.438,
+      "defendedAttemptsPerGame": 13.84,
+      "defenseGames": 76
+    },
+    "4066320": {
+      "bpm": 3.2,
+      "defendedFgPct": 0.434,
+      "defendedAttemptsPerGame": 10.43,
+      "defenseGames": 69
+    },
+    "3136193": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.493,
+      "defendedAttemptsPerGame": 12.25,
+      "defenseGames": 75
+    },
+    "4395630": {
+      "bpm": -1.1,
+      "defendedFgPct": 0.498,
+      "defendedAttemptsPerGame": 10.14,
+      "defenseGames": 64
+    },
+    "3155526": {
+      "bpm": -1.4,
+      "defendedFgPct": 0.468,
+      "defendedAttemptsPerGame": 14.24,
+      "defenseGames": 75
+    },
+    "3155942": {
+      "bpm": 5.2,
+      "defendedFgPct": 0.499,
+      "defendedAttemptsPerGame": 17.01,
+      "defenseGames": 70
+    },
+    "5105565": {
+      "bpm": -0.3,
+      "defendedFgPct": 0.429,
+      "defendedAttemptsPerGame": 13.58,
+      "defenseGames": 67
+    },
+    "3908809": {
+      "bpm": 3.7,
+      "defendedFgPct": 0.442,
+      "defendedAttemptsPerGame": 8.86,
+      "defenseGames": 71
+    },
+    "3934673": {
+      "bpm": 1.9,
+      "defendedFgPct": 0.467,
+      "defendedAttemptsPerGame": 8.68,
+      "defenseGames": 62
+    },
+    "2578185": {
+      "bpm": -1.0,
+      "defendedFgPct": 0.448,
+      "defendedAttemptsPerGame": 11.33,
+      "defenseGames": 63
+    },
+    "6589": {
+      "bpm": 0.5,
+      "defendedFgPct": 0.432,
+      "defendedAttemptsPerGame": 14.46,
+      "defenseGames": 68
+    },
+    "3157465": {
+      "bpm": -1.7,
+      "defendedFgPct": 0.468,
+      "defendedAttemptsPerGame": 7.82,
+      "defenseGames": 74
+    },
+    "4869342": {
+      "bpm": 1.5,
+      "defendedFgPct": 0.486,
+      "defendedAttemptsPerGame": 15.04,
+      "defenseGames": 76
+    },
+    "2583639": {
+      "bpm": -6.4,
+      "defendedFgPct": 0.41,
+      "defendedAttemptsPerGame": 7.42,
+      "defenseGames": 24
+    },
+    "4432158": {
+      "bpm": 4.6,
+      "defendedFgPct": 0.445,
+      "defendedAttemptsPerGame": 17.15,
+      "defenseGames": 71
+    },
+    "4566434": {
+      "bpm": 3.1,
+      "defendedFgPct": 0.476,
+      "defendedAttemptsPerGame": 10.25,
+      "defenseGames": 60
+    },
+    "2991230": {
+      "bpm": 0.9,
+      "defendedFgPct": 0.461,
+      "defendedAttemptsPerGame": 12.03,
+      "defenseGames": 60
+    },
+    "3137259": {
+      "bpm": -4.0,
+      "defendedFgPct": 0.45,
+      "defendedAttemptsPerGame": 8.28,
+      "defenseGames": 72
+    },
+    "4277843": {
+      "bpm": -1.6,
+      "defendedFgPct": 0.493,
+      "defendedAttemptsPerGame": 8.26,
+      "defenseGames": 74
+    },
+    "2990969": {
+      "bpm": -2.3,
+      "defendedFgPct": 0.492,
+      "defendedAttemptsPerGame": 9.16,
+      "defenseGames": 79
+    },
+    "5105550": {
+      "defendedFgPct": 0.483,
+      "defendedAttemptsPerGame": 6.59,
+      "defenseGames": 29
+    },
+    "3032977": {
+      "bpm": 9.5,
+      "defendedFgPct": 0.453,
+      "defendedAttemptsPerGame": 11.76,
+      "defenseGames": 67
+    },
+    "4348700": {
+      "bpm": 2.5,
+      "defendedFgPct": 0.45,
+      "defendedAttemptsPerGame": 10.99,
+      "defenseGames": 70
+    },
+    "5106258": {
+      "bpm": -3.2,
+      "defendedFgPct": 0.499,
+      "defendedAttemptsPerGame": 10.54,
+      "defenseGames": 54
+    },
+    "3135045": {
+      "bpm": -0.3,
+      "defendedFgPct": 0.473,
+      "defendedAttemptsPerGame": 8.72,
+      "defenseGames": 64
+    },
+    "4017844": {
+      "bpm": -1.0,
+      "defendedFgPct": 0.521,
+      "defendedAttemptsPerGame": 11.33,
+      "defenseGames": 70
+    },
+    "6578": {
+      "bpm": 0.0,
+      "defendedFgPct": 0.504,
+      "defendedAttemptsPerGame": 10.38,
+      "defenseGames": 82
+    },
+    "4291678": {
+      "bpm": -1.9,
+      "defendedFgPct": 0.473,
+      "defendedAttemptsPerGame": 11.57,
+      "defenseGames": 74
+    },
+    "4277813": {
+      "bpm": -3.6,
+      "defendedFgPct": 0.5,
+      "defendedAttemptsPerGame": 11.8,
+      "defenseGames": 20
+    },
+    "4395724": {
+      "bpm": 2.2,
+      "defendedFgPct": 0.49,
+      "defendedAttemptsPerGame": 9.27,
+      "defenseGames": 33
+    },
+    "4432822": {
+      "bpm": -0.5,
+      "defendedFgPct": 0.423,
+      "defendedAttemptsPerGame": 7.19,
+      "defenseGames": 55
+    },
+    "4683766": {
+      "bpm": -5.3,
+      "defendedFgPct": 0.508,
+      "defendedAttemptsPerGame": 10.11,
+      "defenseGames": 71
+    },
+    "4222252": {
+      "bpm": 3.2,
+      "defendedFgPct": 0.464,
+      "defendedAttemptsPerGame": 14.93,
+      "defenseGames": 57
+    },
+    "4395702": {
+      "bpm": 1.3,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 7.74,
+      "defenseGames": 74
+    },
+    "4432810": {
+      "bpm": 0.6,
+      "defendedFgPct": 0.432,
+      "defendedAttemptsPerGame": 11.08,
+      "defenseGames": 72
+    },
+    "4017837": {
+      "bpm": 3.1,
+      "defendedFgPct": 0.458,
+      "defendedAttemptsPerGame": 18.25,
+      "defenseGames": 80
+    },
+    "4279888": {
+      "bpm": 2.4,
+      "defendedFgPct": 0.458,
+      "defendedAttemptsPerGame": 10.33,
+      "defenseGames": 50
+    },
+    "4684272": {
+      "bpm": -3.0,
+      "defendedFgPct": 0.467,
+      "defendedAttemptsPerGame": 8.44,
+      "defenseGames": 52
+    },
+    "4432639": {
+      "bpm": -0.7,
+      "defendedFgPct": 0.473,
+      "defendedAttemptsPerGame": 10.91,
+      "defenseGames": 57
+    },
+    "4868423": {
+      "bpm": -4.7,
+      "defendedFgPct": 0.475,
+      "defendedAttemptsPerGame": 5.15,
+      "defenseGames": 57
+    },
+    "4431671": {
+      "bpm": 0.0,
+      "defendedFgPct": 0.46,
+      "defendedAttemptsPerGame": 13.59,
+      "defenseGames": 82
+    },
+    "4432848": {
+      "bpm": -0.9,
+      "defendedFgPct": 0.414,
+      "defendedAttemptsPerGame": 9.89,
+      "defenseGames": 66
+    },
+    "4592691": {
+      "bpm": 0.2,
+      "defendedFgPct": 0.49,
+      "defendedAttemptsPerGame": 8.65,
+      "defenseGames": 66
+    },
+    "3134908": {
+      "bpm": 2.0,
+      "defendedFgPct": 0.482,
+      "defendedAttemptsPerGame": 15.96,
+      "defenseGames": 57
+    },
+    "3934672": {
+      "bpm": 3.3,
+      "defendedFgPct": 0.487,
+      "defendedAttemptsPerGame": 12.22,
+      "defenseGames": 65
+    },
+    "4433621": {
+      "bpm": 3.1,
+      "defendedFgPct": 0.5,
+      "defendedAttemptsPerGame": 13.55,
+      "defenseGames": 78
+    },
+    "4437244": {
+      "bpm": 0.5,
+      "defendedFgPct": 0.47,
+      "defendedAttemptsPerGame": 11.28,
+      "defenseGames": 82
+    },
+    "4701230": {
+      "bpm": 1.8,
+      "defendedFgPct": 0.432,
+      "defendedAttemptsPerGame": 14.39,
+      "defenseGames": 36
+    },
+    "4397189": {
+      "bpm": 0.9,
+      "defendedFgPct": 0.474,
+      "defendedAttemptsPerGame": 7.73,
+      "defenseGames": 64
+    },
+    "4432165": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.454,
+      "defendedAttemptsPerGame": 10.63,
+      "defenseGames": 35
+    },
+    "4593803": {
+      "bpm": 4.0,
+      "defendedFgPct": 0.417,
+      "defendedAttemptsPerGame": 9.81,
+      "defenseGames": 69
+    },
+    "4431714": {
+      "bpm": -3.9,
+      "defendedFgPct": 0.486,
+      "defendedAttemptsPerGame": 8.47,
+      "defenseGames": 79
+    },
+    "3936299": {
+      "bpm": 0.8,
+      "defendedFgPct": 0.477,
+      "defendedAttemptsPerGame": 16.46,
+      "defenseGames": 67
+    },
+    "4432241": {
+      "bpm": -4.1,
+      "defendedFgPct": 0.499,
+      "defendedAttemptsPerGame": 6.92,
+      "defenseGames": 75
+    },
+    "3992": {
+      "bpm": 4.3,
+      "defendedFgPct": 0.474,
+      "defendedAttemptsPerGame": 13.09,
+      "defenseGames": 79
+    },
+    "4431893": {
+      "bpm": -2.3,
+      "defendedFgPct": 0.456,
+      "defendedAttemptsPerGame": 6.38,
+      "defenseGames": 59
+    },
+    "5106060": {
+      "bpm": -0.9,
+      "defendedFgPct": 0.538,
+      "defendedAttemptsPerGame": 5.97,
+      "defenseGames": 75
+    },
+    "4683778": {
+      "bpm": 0.2,
+      "defendedFgPct": 0.51,
+      "defendedAttemptsPerGame": 10.91,
+      "defenseGames": 23
+    },
+    "4277961": {
+      "bpm": 2.3,
+      "defendedFgPct": 0.419,
+      "defendedAttemptsPerGame": 13.03,
+      "defenseGames": 74
+    },
+    "4278077": {
+      "bpm": -1.0,
+      "defendedFgPct": 0.47,
+      "defendedAttemptsPerGame": 6.63,
+      "defenseGames": 36
+    },
+    "4066328": {
+      "bpm": 4.2,
+      "defendedFgPct": 0.468,
+      "defendedAttemptsPerGame": 14.91,
+      "defenseGames": 82
+    },
+    "2596112": {
+      "bpm": -2.3,
+      "defendedFgPct": 0.452,
+      "defendedAttemptsPerGame": 7.79,
+      "defenseGames": 68
+    },
+    "4397077": {
+      "bpm": -0.3,
+      "defendedFgPct": 0.441,
+      "defendedAttemptsPerGame": 9.55,
+      "defenseGames": 56
+    },
+    "3917376": {
+      "bpm": 0.0,
+      "defendedFgPct": 0.469,
+      "defendedAttemptsPerGame": 11.7,
+      "defenseGames": 63
+    },
+    "5112087": {
+      "bpm": -2.2,
+      "defendedFgPct": 0.451,
+      "defendedAttemptsPerGame": 9.88,
+      "defenseGames": 79
+    },
+    "4432823": {
+      "bpm": 4.3,
+      "defendedFgPct": 0.42,
+      "defendedAttemptsPerGame": 9.62,
+      "defenseGames": 47
+    },
+    "4065648": {
+      "bpm": 5.2,
+      "defendedFgPct": 0.476,
+      "defendedAttemptsPerGame": 9.86,
+      "defenseGames": 72
+    },
+    "2991070": {
+      "bpm": -1.6,
+      "defendedFgPct": 0.449,
+      "defendedAttemptsPerGame": 10.43,
+      "defenseGames": 47
+    },
+    "4610139": {
+      "bpm": -1.2,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 12.31,
+      "defenseGames": 54
+    },
+    "6430": {
+      "defendedFgPct": 0.477,
+      "defendedAttemptsPerGame": 10.87,
+      "defenseGames": 55
+    },
+    "3908845": {
+      "bpm": 1.0,
+      "defendedFgPct": 0.485,
+      "defendedAttemptsPerGame": 11.6,
+      "defenseGames": 40
+    },
+    "6477": {
+      "bpm": 0.6,
+      "defendedFgPct": 0.528,
+      "defendedAttemptsPerGame": 10.88,
+      "defenseGames": 81
+    },
+    "4065654": {
+      "bpm": 0.7,
+      "defendedFgPct": 0.478,
+      "defendedAttemptsPerGame": 5.77,
+      "defenseGames": 71
+    },
+    "4433247": {
+      "bpm": -0.6,
+      "defendedFgPct": 0.44,
+      "defendedAttemptsPerGame": 7.94,
+      "defenseGames": 47
+    },
+    "5107897": {
+      "bpm": -1.9,
+      "defendedFgPct": 0.468,
+      "defendedAttemptsPerGame": 9.58,
+      "defenseGames": 63
+    },
+    "2528426": {
+      "bpm": -1.5,
+      "defendedFgPct": 0.498,
+      "defendedAttemptsPerGame": 8.89,
+      "defenseGames": 37
+    },
+    "4278402": {
+      "bpm": -0.8,
+      "defendedFgPct": 0.519,
+      "defendedAttemptsPerGame": 7.5,
+      "defenseGames": 29
+    },
+    "4683750": {
+      "bpm": -5.4,
+      "defendedFgPct": 0.477,
+      "defendedAttemptsPerGame": 10.4,
+      "defenseGames": 56
+    },
+    "4277956": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.522,
+      "defendedAttemptsPerGame": 9.26,
+      "defenseGames": 68
+    },
+    "4277869": {
+      "bpm": -1.4,
+      "defendedFgPct": 0.438,
+      "defendedAttemptsPerGame": 8.32,
+      "defenseGames": 56
+    },
+    "4871145": {
+      "bpm": 3.0,
+      "defendedFgPct": 0.477,
+      "defendedAttemptsPerGame": 14.07,
+      "defenseGames": 70
+    },
+    "4432811": {
+      "bpm": -4.3,
+      "defendedFgPct": 0.489,
+      "defendedAttemptsPerGame": 9.65,
+      "defenseGames": 68
+    },
+    "3062679": {
+      "bpm": 2.8,
+      "defendedFgPct": 0.484,
+      "defendedAttemptsPerGame": 15.46,
+      "defenseGames": 77
+    },
+    "4065663": {
+      "bpm": 1.5,
+      "defendedFgPct": 0.436,
+      "defendedAttemptsPerGame": 5.59,
+      "defenseGames": 40
+    },
+    "3995": {
+      "bpm": 0.7,
+      "defendedFgPct": 0.445,
+      "defendedAttemptsPerGame": 12.23,
+      "defenseGames": 62
+    },
+    "4592479": {
+      "bpm": -1.3,
+      "defendedFgPct": 0.479,
+      "defendedAttemptsPerGame": 10.68,
+      "defenseGames": 82
+    },
+    "4432181": {
+      "bpm": -4.5,
+      "defendedFgPct": 0.465,
+      "defendedAttemptsPerGame": 8.13,
+      "defenseGames": 65
+    },
+    "3064514": {
+      "bpm": 1.3,
+      "defendedFgPct": 0.46,
+      "defendedAttemptsPerGame": 12.96,
+      "defenseGames": 69
+    },
+    "4432907": {
+      "bpm": -0.5,
+      "defendedFgPct": 0.431,
+      "defendedAttemptsPerGame": 10.64,
+      "defenseGames": 62
+    },
+    "4711297": {
+      "bpm": -3.7,
+      "defendedFgPct": 0.493,
+      "defendedAttemptsPerGame": 11.11,
+      "defenseGames": 44
+    },
+    "3102530": {
+      "bpm": -1.3,
+      "defendedFgPct": 0.472,
+      "defendedAttemptsPerGame": 11.29,
+      "defenseGames": 51
+    },
+    "3136195": {
+      "bpm": 3.6,
+      "defendedFgPct": 0.51,
+      "defendedAttemptsPerGame": 16.83,
+      "defenseGames": 72
+    },
+    "4997538": {
+      "bpm": -2.0,
+      "defendedFgPct": 0.516,
+      "defendedAttemptsPerGame": 9.98,
+      "defenseGames": 42
+    },
+    "6450": {
+      "bpm": 3.1,
+      "defendedFgPct": 0.481,
+      "defendedAttemptsPerGame": 10.11,
+      "defenseGames": 37
+    },
+    "4279118": {
+      "bpm": -2.3,
+      "defendedFgPct": 0.453,
+      "defendedAttemptsPerGame": 6.55,
+      "defenseGames": 31
+    },
+    "4594327": {
+      "bpm": -1.6,
+      "defendedFgPct": 0.449,
+      "defendedAttemptsPerGame": 13.79,
+      "defenseGames": 76
+    },
+    "5105623": {
+      "bpm": -0.1,
+      "defendedFgPct": 0.481,
+      "defendedAttemptsPerGame": 11.56,
+      "defenseGames": 64
+    },
+    "4395723": {
+      "bpm": -1.6,
+      "defendedFgPct": 0.49,
+      "defendedAttemptsPerGame": 8.86,
+      "defenseGames": 77
+    },
+    "2489663": {
+      "bpm": -0.7,
+      "defendedFgPct": 0.459,
+      "defendedAttemptsPerGame": 10.45,
+      "defenseGames": 44
+    },
+    "3133603": {
+      "bpm": -2.3,
+      "defendedFgPct": 0.481,
+      "defendedAttemptsPerGame": 13.45,
+      "defenseGames": 60
+    },
+    "3133626": {
+      "bpm": 0.6,
+      "defendedFgPct": 0.448,
+      "defendedAttemptsPerGame": 5.14,
+      "defenseGames": 69
+    },
+    "2581018": {
+      "bpm": -1.4,
+      "defendedFgPct": 0.497,
+      "defendedAttemptsPerGame": 8.62,
+      "defenseGames": 77
+    },
+    "4702177": {
+      "bpm": 1.9,
+      "defendedFgPct": 0.48,
+      "defendedAttemptsPerGame": 11.22,
+      "defenseGames": 80
+    },
+    "4432192": {
+      "bpm": -3.3,
+      "defendedFgPct": 0.511,
+      "defendedAttemptsPerGame": 9.67,
+      "defenseGames": 79
+    },
+    "3202": {
+      "bpm": 3.2,
+      "defendedFgPct": 0.411,
+      "defendedAttemptsPerGame": 12.39,
+      "defenseGames": 62
+    },
+    "4066372": {
+      "bpm": -2.0,
+      "defendedFgPct": 0.443,
+      "defendedAttemptsPerGame": 10.33,
+      "defenseGames": 69
+    },
+    "4397140": {
+      "bpm": -0.6,
+      "defendedFgPct": 0.475,
+      "defendedAttemptsPerGame": 8.64,
+      "defenseGames": 75
+    },
+    "3155535": {
+      "bpm": 0.3,
+      "defendedFgPct": 0.438,
+      "defendedAttemptsPerGame": 8.47,
+      "defenseGames": 76
+    },
+    "4433627": {
+      "bpm": -2.7,
+      "defendedFgPct": 0.507,
+      "defendedAttemptsPerGame": 12.31,
+      "defenseGames": 67
+    },
+    "6609": {
+      "bpm": 0.7,
+      "defendedFgPct": 0.475,
+      "defendedAttemptsPerGame": 8.59,
+      "defenseGames": 37
+    },
+    "4431828": {
+      "bpm": -3.6,
+      "defendedFgPct": 0.433,
+      "defendedAttemptsPerGame": 7.88,
+      "defenseGames": 43
+    },
+    "4683834": {
+      "bpm": -5.4,
+      "defendedFgPct": 0.528,
+      "defendedAttemptsPerGame": 9.31,
+      "defenseGames": 36
+    },
+    "6475": {
+      "bpm": -1.0,
+      "defendedFgPct": 0.46,
+      "defendedAttemptsPerGame": 8.72,
+      "defenseGames": 72
+    },
+    "2991139": {
+      "bpm": 0.6,
+      "defendedFgPct": 0.433,
+      "defendedAttemptsPerGame": 9.11,
+      "defenseGames": 74
+    },
+    "4594326": {
+      "bpm": -3.0,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 5.67,
+      "defenseGames": 69
+    },
+    "3102531": {
+      "bpm": 4.7,
+      "defendedFgPct": 0.421,
+      "defendedAttemptsPerGame": 16.24,
+      "defenseGames": 42
+    },
+    "2993874": {
+      "bpm": 1.5,
+      "defendedFgPct": 0.459,
+      "defendedAttemptsPerGame": 6.76,
+      "defenseGames": 61
+    },
+    "4684793": {
+      "bpm": -1.0,
+      "defendedFgPct": 0.525,
+      "defendedAttemptsPerGame": 11.11,
+      "defenseGames": 72
+    },
+    "3134907": {
+      "bpm": -4.9,
+      "defendedFgPct": 0.439,
+      "defendedAttemptsPerGame": 10.77,
+      "defenseGames": 65
+    },
+    "3012": {
+      "bpm": -1.3,
+      "defendedFgPct": 0.502,
+      "defendedAttemptsPerGame": 6.94,
+      "defenseGames": 35
+    },
+    "6442": {
+      "bpm": 3.4,
+      "defendedFgPct": 0.463,
+      "defendedAttemptsPerGame": 11.02,
+      "defenseGames": 50
+    },
+    "5174563": {
+      "bpm": -4.1,
+      "defendedFgPct": 0.423,
+      "defendedAttemptsPerGame": 13.84,
+      "defenseGames": 68
+    },
+    "4432816": {
+      "bpm": 3.2,
+      "defendedFgPct": 0.497,
+      "defendedAttemptsPerGame": 9.72,
+      "defenseGames": 47
+    },
+    "3914044": {
+      "bpm": -2.4,
+      "defendedFgPct": 0.522,
+      "defendedAttemptsPerGame": 6.23,
+      "defenseGames": 50
+    },
+    "2580365": {
+      "bpm": 1.8,
+      "defendedFgPct": 0.519,
+      "defendedAttemptsPerGame": 9.39,
+      "defenseGames": 24
+    },
+    "4066336": {
+      "bpm": -0.3,
+      "defendedFgPct": 0.471,
+      "defendedAttemptsPerGame": 11.11,
+      "defenseGames": 47
+    },
+    "1966": {
+      "bpm": 5.6,
+      "defendedFgPct": 0.443,
+      "defendedAttemptsPerGame": 11.09,
+      "defenseGames": 70
+    },
+    "4277890": {
+      "bpm": -2.4,
+      "defendedFgPct": 0.521,
+      "defendedAttemptsPerGame": 9.17,
+      "defenseGames": 20
+    },
+    "4397020": {
+      "bpm": 0.2,
+      "defendedFgPct": 0.419,
+      "defendedAttemptsPerGame": 10.56,
+      "defenseGames": 71
+    },
+    "3945274": {
+      "bpm": 6.7,
+      "defendedFgPct": 0.463,
+      "defendedAttemptsPerGame": 15.04,
+      "defenseGames": 50
+    },
+    "3913174": {
+      "bpm": 1.1,
+      "defendedFgPct": 0.456,
+      "defendedAttemptsPerGame": 7.92,
+      "defenseGames": 65
+    },
+    "3064560": {
+      "bpm": 3.3,
+      "defendedFgPct": 0.442,
+      "defendedAttemptsPerGame": 11.86,
+      "defenseGames": 73
+    },
+    "4066262": {
+      "bpm": -0.8,
+      "defendedFgPct": 0.463,
+      "defendedAttemptsPerGame": 10.91,
+      "defenseGames": 65
+    },
+    "2990992": {
+      "bpm": -1.5,
+      "defendedFgPct": 0.427,
+      "defendedAttemptsPerGame": 6.61,
+      "defenseGames": 34
+    },
+    "4701232": {
+      "bpm": 3.5,
+      "defendedFgPct": 0.494,
+      "defendedAttemptsPerGame": 17.75,
+      "defenseGames": 44
+    },
+    "2488653": {
+      "bpm": -0.6,
+      "defendedFgPct": 0.505,
+      "defendedAttemptsPerGame": 10.14,
+      "defenseGames": 74
+    },
+    "4711294": {
+      "bpm": -2.5,
+      "defendedFgPct": 0.459,
+      "defendedAttemptsPerGame": 9.36,
+      "defenseGames": 80
+    },
+    "4432582": {
+      "bpm": -2.5,
+      "defendedFgPct": 0.473,
+      "defendedAttemptsPerGame": 11.35,
+      "defenseGames": 78
+    },
+    "4065778": {
+      "bpm": 1.3,
+      "defendedFgPct": 0.492,
+      "defendedAttemptsPerGame": 11.26,
+      "defenseGames": 50
+    },
+    "2960236": {
+      "bpm": -3.8,
+      "defendedFgPct": 0.497,
+      "defendedAttemptsPerGame": 10.35,
+      "defenseGames": 34
+    },
+    "4066399": {
+      "bpm": -3.5,
+      "defendedFgPct": 0.437,
+      "defendedAttemptsPerGame": 9.63,
+      "defenseGames": 38
+    },
+    "4278104": {
+      "bpm": -0.1,
+      "defendedFgPct": 0.482,
+      "defendedAttemptsPerGame": 11.08,
+      "defenseGames": 77
+    },
+    "3147657": {
+      "bpm": -0.5,
+      "defendedFgPct": 0.464,
+      "defendedAttemptsPerGame": 13.0,
+      "defenseGames": 82
+    },
+    "3195": {
+      "bpm": 1.2,
+      "defendedFgPct": 0.484,
+      "defendedAttemptsPerGame": 8.59,
+      "defenseGames": 71
+    },
+    "4066383": {
+      "bpm": 1.8,
+      "defendedFgPct": 0.424,
+      "defendedAttemptsPerGame": 12.75,
+      "defenseGames": 64
+    },
+    "4431823": {
+      "bpm": 0.0,
+      "defendedFgPct": 0.442,
+      "defendedAttemptsPerGame": 9.94,
+      "defenseGames": 64
+    },
+    "3150844": {
+      "bpm": 4.0,
+      "defendedFgPct": 0.513,
+      "defendedAttemptsPerGame": 8.14,
+      "defenseGames": 30
+    },
+    "4432171": {
+      "bpm": -0.9,
+      "defendedFgPct": 0.476,
+      "defendedAttemptsPerGame": 8.2,
+      "defenseGames": 74
+    },
+    "4712863": {
+      "bpm": -0.6,
+      "defendedFgPct": 0.447,
+      "defendedAttemptsPerGame": 6.24,
+      "defenseGames": 33
+    },
+    "4433249": {
+      "bpm": -1.9,
+      "defendedFgPct": 0.478,
+      "defendedAttemptsPerGame": 9.5,
+      "defenseGames": 71
+    },
+    "3133628": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.486,
+      "defendedAttemptsPerGame": 14.9,
+      "defenseGames": 72
+    },
+    "4278594": {
+      "bpm": -0.8,
+      "defendedFgPct": 0.467,
+      "defendedAttemptsPerGame": 10.19,
+      "defenseGames": 69
+    },
+    "4396971": {
+      "bpm": 1.6,
+      "defendedFgPct": 0.452,
+      "defendedAttemptsPerGame": 11.76,
+      "defenseGames": 80
+    },
+    "4278067": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.498,
+      "defendedAttemptsPerGame": 12.01,
+      "defenseGames": 70
+    },
+    "4278076": {
+      "bpm": -3.3,
+      "defendedFgPct": 0.494,
+      "defendedAttemptsPerGame": 14.33,
+      "defenseGames": 57
+    },
+    "4683686": {
+      "bpm": -5.7,
+      "defendedFgPct": 0.512,
+      "defendedAttemptsPerGame": 7.95,
+      "defenseGames": 60
+    },
+    "4278039": {
+      "bpm": -0.4,
+      "defendedFgPct": 0.483,
+      "defendedAttemptsPerGame": 10.07,
+      "defenseGames": 82
+    },
+    "3416": {
+      "bpm": 0.8,
+      "defendedFgPct": 0.396,
+      "defendedAttemptsPerGame": 6.38,
+      "defenseGames": 78
+    },
+    "3112335": {
+      "bpm": 13.3,
+      "defendedFgPct": 0.49,
+      "defendedAttemptsPerGame": 20.47,
+      "defenseGames": 70
+    },
+    "4997528": {
+      "bpm": 0.3,
+      "defendedFgPct": 0.436,
+      "defendedAttemptsPerGame": 11.52,
+      "defenseGames": 46
+    },
+    "6478": {
+      "bpm": 2.6,
+      "defendedFgPct": 0.475,
+      "defendedAttemptsPerGame": 17.89,
+      "defenseGames": 73
+    },
+    "4712896": {
+      "bpm": -4.1,
+      "defendedFgPct": 0.461,
+      "defendedAttemptsPerGame": 10.93,
+      "defenseGames": 46
+    },
+    "2595516": {
+      "bpm": 1.5,
+      "defendedFgPct": 0.494,
+      "defendedAttemptsPerGame": 8.67,
+      "defenseGames": 60
+    },
+    "4278355": {
+      "bpm": 1.7,
+      "defendedFgPct": 0.499,
+      "defendedAttemptsPerGame": 7.33,
+      "defenseGames": 79
+    },
+    "4397018": {
+      "bpm": -0.7,
+      "defendedFgPct": 0.437,
+      "defendedAttemptsPerGame": 10.55,
+      "defenseGames": 64
+    },
+    "3934719": {
+      "bpm": 0.7,
+      "defendedFgPct": 0.449,
+      "defendedAttemptsPerGame": 13.74,
+      "defenseGames": 74
+    },
+    "4431680": {
+      "bpm": 1.3,
+      "defendedFgPct": 0.503,
+      "defendedAttemptsPerGame": 13.49,
+      "defenseGames": 74
+    },
+    "4593049": {
+      "bpm": -3.4,
+      "defendedFgPct": 0.443,
+      "defendedAttemptsPerGame": 10.28,
+      "defenseGames": 44
+    },
+    "4601023": {
+      "bpm": -2.6,
+      "defendedFgPct": 0.463,
+      "defendedAttemptsPerGame": 8.82,
+      "defenseGames": 61
+    },
+    "4278078": {
+      "bpm": -0.9,
+      "defendedFgPct": 0.504,
+      "defendedAttemptsPerGame": 13.96,
+      "defenseGames": 57
+    },
+    "4432573": {
+      "bpm": 3.5,
+      "defendedFgPct": 0.446,
+      "defendedAttemptsPerGame": 13.17,
+      "defenseGames": 46
+    },
+    "3149673": {
+      "bpm": 1.7,
+      "defendedFgPct": 0.464,
+      "defendedAttemptsPerGame": 14.67,
+      "defenseGames": 78
+    },
+    "4431687": {
+      "bpm": -3.7,
+      "defendedFgPct": 0.515,
+      "defendedAttemptsPerGame": 9.81,
+      "defenseGames": 63
+    },
+    "4251": {
+      "bpm": -0.4,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 11.88,
+      "defenseGames": 41
+    },
+    "4066354": {
+      "bpm": 3.5,
+      "defendedFgPct": 0.443,
+      "defendedAttemptsPerGame": 9.25,
+      "defenseGames": 80
+    },
+    "4576087": {
+      "bpm": -1.8,
+      "defendedFgPct": 0.44,
+      "defendedAttemptsPerGame": 11.0,
+      "defenseGames": 68
+    },
+    "4431679": {
+      "bpm": -1.9,
+      "defendedFgPct": 0.479,
+      "defendedAttemptsPerGame": 9.73,
+      "defenseGames": 57
+    },
+    "4397014": {
+      "bpm": 0.4,
+      "defendedFgPct": 0.454,
+      "defendedAttemptsPerGame": 9.64,
+      "defenseGames": 75
+    },
+    "4593016": {
+      "bpm": 0.1,
+      "defendedFgPct": 0.457,
+      "defendedAttemptsPerGame": 9.53,
+      "defenseGames": 42
+    },
+    "4395625": {
+      "bpm": 0.6,
+      "defendedFgPct": 0.482,
+      "defendedAttemptsPerGame": 12.26,
+      "defenseGames": 58
+    },
+    "4066211": {
+      "defendedFgPct": 0.355,
+      "defendedAttemptsPerGame": 8.45,
+      "defenseGames": 20
+    },
+    "4683771": {
+      "defendedFgPct": 0.469,
+      "defendedAttemptsPerGame": 5.19,
+      "defenseGames": 81
+    },
+    "2583632": {
+      "bpm": 0.1,
+      "defendedFgPct": 0.47,
+      "defendedAttemptsPerGame": 9.68,
+      "defenseGames": 75
+    },
+    "3032976": {
+      "bpm": 1.9,
+      "defendedFgPct": 0.458,
+      "defendedAttemptsPerGame": 17.79,
+      "defenseGames": 72
+    },
+    "4066648": {
+      "bpm": -0.7,
+      "defendedFgPct": 0.456,
+      "defendedAttemptsPerGame": 11.53,
+      "defenseGames": 59
+    },
+    "3468": {
+      "bpm": -1.1,
+      "defendedFgPct": 0.463,
+      "defendedAttemptsPerGame": 8.0,
+      "defenseGames": 75
+    },
+    "4888725": {
+      "bpm": -4.1,
+      "defendedFgPct": 0.446,
+      "defendedAttemptsPerGame": 8.97,
+      "defenseGames": 74
+    },
+    "4065804": {
+      "bpm": 0.8,
+      "defendedFgPct": 0.502,
+      "defendedAttemptsPerGame": 7.77,
+      "defenseGames": 71
+    },
+    "4066757": {
+      "bpm": 0.3,
+      "defendedFgPct": 0.435,
+      "defendedAttemptsPerGame": 7.58,
+      "defenseGames": 71
+    },
+    "4593125": {
+      "bpm": 3.2,
+      "defendedFgPct": 0.451,
+      "defendedAttemptsPerGame": 11.3,
+      "defenseGames": 65
+    },
+    "4683678": {
+      "bpm": -2.2,
+      "defendedFgPct": 0.499,
+      "defendedAttemptsPerGame": 10.15,
+      "defenseGames": 66
+    },
+    "4433134": {
+      "bpm": 2.4,
+      "defendedFgPct": 0.457,
+      "defendedAttemptsPerGame": 13.45,
+      "defenseGames": 65
+    },
+    "4431785": {
+      "bpm": 1.9,
+      "defendedFgPct": 0.457,
+      "defendedAttemptsPerGame": 9.14,
+      "defenseGames": 79
+    },
+    "2326307": {
+      "bpm": -1.7,
+      "defendedFgPct": 0.486,
+      "defendedAttemptsPerGame": 4.64,
+      "defenseGames": 68
+    },
+    "4914336": {
+      "bpm": -1.3,
+      "defendedFgPct": 0.49,
+      "defendedAttemptsPerGame": 9.96,
+      "defenseGames": 72
+    },
+    "4278073": {
+      "bpm": 11.5,
+      "defendedFgPct": 0.441,
+      "defendedAttemptsPerGame": 12.47,
+      "defenseGames": 76
+    },
+    "3899664": {
+      "bpm": -2.9,
+      "defendedFgPct": 0.487,
+      "defendedAttemptsPerGame": 6.0,
+      "defenseGames": 75
+    },
+    "3975": {
+      "bpm": 6.3,
+      "defendedFgPct": 0.451,
+      "defendedAttemptsPerGame": 9.41,
+      "defenseGames": 70
+    },
+    "4845367": {
+      "bpm": -3.2,
+      "defendedFgPct": 0.478,
+      "defendedAttemptsPerGame": 11.12,
+      "defenseGames": 81
+    },
+    "3133602": {
+      "bpm": -3.5,
+      "defendedFgPct": 0.509,
+      "defendedAttemptsPerGame": 7.49,
+      "defenseGames": 38
+    },
+    "2530530": {
+      "bpm": 1.2,
+      "defendedFgPct": 0.448,
+      "defendedAttemptsPerGame": 6.65,
+      "defenseGames": 79
+    },
+    "4433192": {
+      "bpm": 3.6,
+      "defendedFgPct": 0.442,
+      "defendedAttemptsPerGame": 9.56,
+      "defenseGames": 57
+    },
+    "2990962": {
+      "bpm": -1.7,
+      "defendedFgPct": 0.473,
+      "defendedAttemptsPerGame": 9.35,
+      "defenseGames": 80
+    },
+    "3907823": {
+      "bpm": -1.3,
+      "defendedFgPct": 0.46,
+      "defendedAttemptsPerGame": 7.49,
+      "defenseGames": 67
+    },
+    "5211176": {
+      "bpm": -5.2,
+      "defendedFgPct": 0.463,
+      "defendedAttemptsPerGame": 8.24,
+      "defenseGames": 60
+    },
+    "2528210": {
+      "bpm": -2.1,
+      "defendedFgPct": 0.473,
+      "defendedAttemptsPerGame": 9.82,
+      "defenseGames": 77
+    },
+    "6440": {
+      "bpm": 0.1,
+      "defendedFgPct": 0.474,
+      "defendedAttemptsPerGame": 11.9,
+      "defenseGames": 73
+    },
+    "4597865": {
+      "bpm": -3.2,
+      "defendedFgPct": 0.459,
+      "defendedAttemptsPerGame": 8.71,
+      "defenseGames": 28
+    },
+    "4431736": {
+      "bpm": -0.1,
+      "defendedFgPct": 0.491,
+      "defendedAttemptsPerGame": 12.99,
+      "defenseGames": 78
+    },
+    "4277905": {
+      "bpm": 0.5,
+      "defendedFgPct": 0.482,
+      "defendedAttemptsPerGame": 11.86,
+      "defenseGames": 76
+    },
+    "4431684": {
+      "bpm": 1.2,
+      "defendedFgPct": 0.481,
+      "defendedAttemptsPerGame": 8.07,
+      "defenseGames": 62
+    },
+    "4395626": {
+      "bpm": 1.5,
+      "defendedFgPct": 0.497,
+      "defendedAttemptsPerGame": 7.04,
+      "defenseGames": 46
+    },
+    "4431675": {
+      "bpm": -3.1,
+      "defendedFgPct": 0.456,
+      "defendedAttemptsPerGame": 8.63,
+      "defenseGames": 44
+    },
+    "3136196": {
+      "bpm": -0.7,
+      "defendedFgPct": 0.489,
+      "defendedAttemptsPerGame": 9.07,
+      "defenseGames": 69
+    },
+    "4397688": {
+      "bpm": 0.8,
+      "defendedFgPct": 0.515,
+      "defendedAttemptsPerGame": 14.33,
+      "defenseGames": 53
+    },
+    "4702382": {
+      "bpm": -2.6,
+      "defendedFgPct": 0.455,
+      "defendedAttemptsPerGame": 7.34,
+      "defenseGames": 74
+    },
+    "4065733": {
+      "bpm": 4.3,
+      "defendedFgPct": 0.495,
+      "defendedAttemptsPerGame": 7.61,
+      "defenseGames": 70
+    },
+    "4395725": {
+      "bpm": 3.1,
+      "defendedFgPct": 0.485,
+      "defendedAttemptsPerGame": 12.01,
+      "defenseGames": 77
+    },
+    "4396993": {
+      "bpm": 5.8,
+      "defendedFgPct": 0.471,
+      "defendedAttemptsPerGame": 11.89,
+      "defenseGames": 73
+    },
+    "4397179": {
+      "bpm": -2.6,
+      "defendedFgPct": 0.5,
+      "defendedAttemptsPerGame": 8.53,
+      "defenseGames": 60
+    },
+    "4431678": {
+      "bpm": 2.0,
+      "defendedFgPct": 0.454,
+      "defendedAttemptsPerGame": 12.04,
+      "defenseGames": 52
+    },
+    "3135046": {
+      "bpm": 0.1,
+      "defendedFgPct": 0.478,
+      "defendedAttemptsPerGame": 8.63,
+      "defenseGames": 81
+    },
+    "5104157": {
+      "bpm": 6.5,
+      "defendedFgPct": 0.427,
+      "defendedAttemptsPerGame": 18.43,
+      "defenseGames": 46
+    },
+    "4578893": {
+      "bpm": 0.7,
+      "defendedFgPct": 0.47,
+      "defendedAttemptsPerGame": 8.13,
+      "defenseGames": 57
+    },
+    "4433136": {
+      "bpm": 1.8,
+      "defendedFgPct": 0.439,
+      "defendedAttemptsPerGame": 19.72,
+      "defenseGames": 58
+    },
+    "4277847": {
+      "bpm": -1.2,
+      "defendedFgPct": 0.462,
+      "defendedAttemptsPerGame": 11.13,
+      "defenseGames": 68
+    },
+    "5061589": {
+      "bpm": -3.0,
+      "defendedFgPct": 0.525,
+      "defendedAttemptsPerGame": 14.9,
+      "defenseGames": 73
+    },
+    "5211175": {
+      "bpm": -3.5,
+      "defendedFgPct": 0.496,
+      "defendedAttemptsPerGame": 11.03,
+      "defenseGames": 75
+    },
+    "4066650": {
+      "bpm": 0.0,
+      "defendedFgPct": 0.442,
+      "defendedAttemptsPerGame": 9.38,
+      "defenseGames": 64
+    },
+    "4600663": {
+      "bpm": -0.1,
+      "defendedFgPct": 0.471,
+      "defendedAttemptsPerGame": 13.45,
+      "defenseGames": 66
+    },
+    "3064440": {
+      "bpm": 0.7,
+      "defendedFgPct": 0.453,
+      "defendedAttemptsPerGame": 13.07,
+      "defenseGames": 74
+    },
+    "4433137": {
+      "bpm": -2.3,
+      "defendedFgPct": 0.475,
+      "defendedAttemptsPerGame": 9.98,
+      "defenseGames": 63
+    },
+    "4395628": {
+      "bpm": 7.0,
+      "defendedFgPct": 0.431,
+      "defendedAttemptsPerGame": 10.13,
+      "defenseGames": 30
+    }
+  }
+}

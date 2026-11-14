@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["src/data/nba-players.json", "src/data/advanced-2024-25.json", "src/data/tracking-2024-26.json", "src/data/hustle-2024-26.json", "src/data/external-tracking-2024-26.json"]
